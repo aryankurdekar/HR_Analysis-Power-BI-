@@ -31,7 +31,22 @@ This project uses Power BI to analyze employee attrition and key HR metrics. It 
 
 ---
 
+
+### 6.	Screenshots / Demos
+
+
+Example: ![Dashboard Preview](https://github.com/aryankurdekar/HR_Analysis-Power-BI-/blob/main/SS_HR_Analysis.png)
+
+
+---
+
+
 ## Data: [HR_Analytics.csv](https://github.com/user-attachments/files/21263591/HR_Analytics.csv)
+
+
+
+---
+
 
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiY2I4YThhYmYtMDcwNS00MTU3LThlODAtNjY0OGYxMTM3NDkyIiwidCI6IjZmNTI5YWYyLTFhNzYtNDk5NC1hMzg2LTcxZTJhYzkxNDhiMCJ9
